@@ -1,0 +1,46 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.h2-1 {
+  padding-top: 90px;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+h2,
+p-quotes {
+  text-align: center;
+  color: white;
+}
+
+.quotes h2 {
+  background-color: rgb(39, 245, 245);
+  color: white;
+  opacity: 1;
+  transition: 0.7s;
+}
+
+.quotes h2:hover {
+  opacity: 0.6;
+}
+
+div .quotes {
+  width: 60%;
+  height: 100px;
+  margin-left: 20%;
+}
+
+img {
+  border: 6px solid rgba(31, 30, 30, 0.468);
+  box-shadow: 2px 3px 2px rgb(39, 245, 245);
+}
+
+.frases {
+  color: white;
+  float: right;
+}
+
+.relogio {
+  background-color: white;
+}
