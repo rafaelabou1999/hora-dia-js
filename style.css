@@ -41,6 +41,10 @@ img {
   float: right;
 }
 
-.relogio {
-  background-color: white;
+.frases-col {
+  padding-top: 70px;
+  font-size: 22px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  border-bottom: 6px solid rgb(39, 245, 245);
 }
